@@ -825,21 +825,22 @@ i:nth-child(60) {
   z-index: 15;
 }
 
-/*.minutes {
+.minutes {
   width: 170px;
   height: 6px;
   position: absolute;
   top: calc(50% - 3px);
   left: calc(50% - 30px);
   -webkit-transform: rotate(15deg);
-          transform: rotate(15deg);
+  transform: rotate(15deg);
   background-color: #000004;
   -webkit-transform-origin: 30px center;
-          transform-origin: 30px center;
+  transform-origin: 30px center;
   border-radius: 0 20px 20px 0;
   z-index: 11;
 }
-.watch-lace {
+
+/*.watch-lace {
   width: 0;
   height: 20px;
   border-bottom: 10px solid transparent;
