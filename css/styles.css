@@ -994,7 +994,7 @@ i:nth-child(60) {
   background-position: -28px 6px, 0 6px, 28px 6px, 0 42px;
 }
 
-/*.sun {
+.sun {
   height: 10px;
   width: 10px;
   background-color: transparent;
@@ -1004,9 +1004,10 @@ i:nth-child(60) {
   left: calc(50% - 8px);
   top: 12px;
   -webkit-animation: 8s sun infinite;
-          animation: 8s sun infinite;
+  animation: 8s sun infinite;
 }
-.sun:after {
+
+/*.sun:after {
   content: "";
   display: block;
   position: absolute;
