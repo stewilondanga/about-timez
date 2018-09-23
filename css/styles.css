@@ -1149,23 +1149,23 @@ i:nth-child(60) {
   }
 }
 
-/*@keyframes sun {
+@keyframes sun {
   0%, 33% {
     -webkit-transform: rotate(0);
-            transform: rotate(0);
+    transform: rotate(0);
     height: 12px;
     width: 12px;
   }
   33% {
     background-color: #fff;
     -webkit-transform: rotate(180deg);
-            transform: rotate(180deg);
+    transform: rotate(180deg);
     height: 12px;
     width: 12px;
   }
   66% {
     -webkit-transform: rotate(180deg);
-            transform: rotate(180deg);
+    transform: rotate(180deg);
     background-color: #fff;
     height: 12px;
     width: 12px;
@@ -1173,12 +1173,13 @@ i:nth-child(60) {
   100% {
     background-color: transparent;
     -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+    transform: rotate(360deg);
     height: 10px;
     width: 10px;
   }
 }
-@-webkit-keyframes sun-arms {
+
+/*@-webkit-keyframes sun-arms {
   0% {
     opacity: 1;
   }
