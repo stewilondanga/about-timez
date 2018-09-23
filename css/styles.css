@@ -855,7 +855,7 @@ i:nth-child(60) {
   transform: scaleX(0.9) scaleY(1.1);
 }
 
-/*.watch-lace:after {
+.watch-lace:after {
   content: "";
   display: block;
   height: 40px;
@@ -866,7 +866,8 @@ i:nth-child(60) {
   border-radius: 3px;
   position: absolute;
 }
-.watch-lace:before {
+
+/*.watch-lace:before {
   content: "";
   display: block;
   height: 40px;
