@@ -382,11 +382,12 @@ i:nth-child(20) {
   transform: rotate(120deg) translate(0, -172px);
 }
 
-/*i:nth-child(21) {
+i:nth-child(21) {
   -webkit-transform: rotate(126deg) translate(0, -172px);
-          transform: rotate(126deg) translate(0, -172px);
+  transform: rotate(126deg) translate(0, -172px);
 }
-i:nth-child(22) {
+
+/*i:nth-child(22) {
   -webkit-transform: rotate(132deg) translate(0, -172px);
           transform: rotate(132deg) translate(0, -172px);
 }
