@@ -970,10 +970,11 @@ i:nth-child(60) {
   border-radius: 3px;
 }
 
-/*.watch-lace div:before {
+.watch-lace div:before {
   top: -3px;
 }
-.watch-day {
+
+/*.watch-day {
   height: 90px;
   width: 90px;
   display: block;
