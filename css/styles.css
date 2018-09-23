@@ -596,11 +596,12 @@ i:nth-child(60) {
   transform: translate(50px, 40px) rotate(-70deg);
 }
 
-/*.watch-week.days:after {
+.watch-week.days:after {
   -webkit-transform: rotate(256deg);
-          transform: rotate(256deg);
+  transform: rotate(256deg);
 }
-.watch-week.days ul {
+
+/*.watch-week.days ul {
   -webkit-transform: rotate(169deg) translate(-58px, -17px);
           transform: rotate(169deg) translate(-58px, -17px);
 }
