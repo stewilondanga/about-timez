@@ -1092,11 +1092,12 @@ i:nth-child(60) {
   transform: rotate(315deg) translate(0, -9px);
 }
 
-/*.sun div:nth-child(9) {
+.sun div:nth-child(9) {
   -webkit-transform: rotate(360deg) translate(0, -9px);
-          transform: rotate(360deg) translate(0, -9px);
+  transform: rotate(360deg) translate(0, -9px);
 }
-@-webkit-keyframes seconds {
+
+/*@-webkit-keyframes seconds {
   0% {
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
