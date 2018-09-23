@@ -794,24 +794,25 @@ i:nth-child(60) {
   border-radius: 50%;
 }
 
-/*.seconds {
+.seconds {
   width: 197px;
   height: 2px;
   position: absolute;
   top: 50%;
   left: calc(50% - 30px);
   -webkit-transform: rotate(0deg);
-          transform: rotate(0deg);
+  transform: rotate(0deg);
   -webkit-animation: 10s seconds linear infinite;
-          animation: 10s seconds linear infinite;
+  animation: 10s seconds linear infinite;
   background-color: #fe0806;
   -webkit-transform-origin: 30px center;
-          transform-origin: 30px center;
-  box-shadow: 0 0 16px 2px rgba(254,8,6,0.2);
+  transform-origin: 30px center;
+  box-shadow: 0 0 16px 2px rgba(254, 8, 6, 0.2);
   border-radius: 0 20px 20px 0;
   z-index: 15;
 }
-.seconds:after {
+
+/*.seconds:after {
   content: "";
   display: block;
   position: absolute;
