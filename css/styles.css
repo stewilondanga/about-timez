@@ -1046,12 +1046,13 @@ i:nth-child(60) {
   transform: rotate(-10deg);
 }
 
-/*.sun div:before {
+.sun div:before {
   -webkit-transform: rotate(10deg);
-          transform: rotate(10deg);
+  transform: rotate(10deg);
   left: -1px;
 }
-.sun div:nth-child(1) {
+
+/*.sun div:nth-child(1) {
   -webkit-transform: rotate(0) translate(0, -9px);
           transform: rotate(0) translate(0, -9px);
 }
