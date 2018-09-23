@@ -715,12 +715,13 @@ i:nth-child(60) {
   transform: rotate(100deg) translate(0, -45px);
 }
 
-/*.watch-week div:nth-child(6) {
+.watch-week div:nth-child(6) {
   -webkit-transform: rotate(125deg) translate(0, -45px);
-          transform: rotate(125deg) translate(0, -45px);
+  transform: rotate(125deg) translate(0, -45px);
   color: #ff5456;
 }
-.watch-week div:nth-child(7) {
+
+/*.watch-week div:nth-child(7) {
   -webkit-transform: rotate(150deg) translate(0, -45px);
           transform: rotate(150deg) translate(0, -45px);
 }
