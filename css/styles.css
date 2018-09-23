@@ -916,10 +916,11 @@ i:nth-child(60) {
   top: -4px;
 }
 
-/*.watch-lace div:nth-child(3) {
+.watch-lace div:nth-child(3) {
   top: 6px;
 }
-.watch-lace div:nth-child(4) {
+
+/*.watch-lace div:nth-child(4) {
   top: -17px;
   -webkit-filter: brightness(110%);
           filter: brightness(110%);
