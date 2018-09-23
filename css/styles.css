@@ -282,11 +282,12 @@ body {
   position: absolute;
 }
 
-/*i:nth-child(1) {
+i:nth-child(1) {
   -webkit-transform: rotate(6deg) translate(0, -172px);
-          transform: rotate(6deg) translate(0, -172px);
+  transform: rotate(6deg) translate(0, -172px);
 }
-i:nth-child(2) {
+
+/*i:nth-child(2) {
   -webkit-transform: rotate(12deg) translate(0, -172px);
           transform: rotate(12deg) translate(0, -172px);
 }
