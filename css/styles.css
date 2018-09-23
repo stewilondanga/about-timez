@@ -1179,7 +1179,7 @@ i:nth-child(60) {
   }
 }
 
-/*@-webkit-keyframes sun-arms {
+@-webkit-keyframes sun-arms {
   0% {
     opacity: 1;
   }
@@ -1190,7 +1190,8 @@ i:nth-child(60) {
     opacity: 1;
   }
 }
-@keyframes sun-arms {
+
+/*@keyframes sun-arms {
   0% {
     opacity: 1;
   }
