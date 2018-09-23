@@ -582,15 +582,16 @@ i:nth-child(60) {
   transform: rotate(360deg) translate(0, -172px);
 }
 
-/*.watch-week {
+.watch-week {
   position: absolute;
   top: calc(50% - 6px);
   left: calc(50% - 6px);
   -webkit-transform: translate(-120px, 40px) rotate(-70deg);
-          transform: translate(-120px, 40px) rotate(-70deg);
+  transform: translate(-120px, 40px) rotate(-70deg);
   z-index: 10;
 }
-.watch-week.days {
+
+/*.watch-week.days {
   -webkit-transform: translate(50px, 40px) rotate(-70deg);
           transform: translate(50px, 40px) rotate(-70deg);
 }
