@@ -1191,7 +1191,7 @@ i:nth-child(60) {
   }
 }
 
-/*@keyframes sun-arms {
+@keyframes sun-arms {
   0% {
     opacity: 1;
   }
@@ -1202,7 +1202,8 @@ i:nth-child(60) {
     opacity: 1;
   }
 }
-@-webkit-keyframes moon {
+
+/*@-webkit-keyframes moon {
   0% {
     -webkit-transform: translate(-14px, 14px);
             transform: translate(-14px, 14px);
