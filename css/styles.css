@@ -209,16 +209,17 @@ body {
   left: 312px;
 }
 
-/*.reflection.bottom:after {
+.reflection.bottom:after {
   height: 39px;
   width: 43px;
   left: -60px;
   top: -14px;
   -webkit-transform: rotate(-44deg);
-          transform: rotate(-44deg);
+  transform: rotate(-44deg);
   box-shadow: 34px 17px 0 8px #080817;
 }
-.reflection:after {
+
+/*.reflection:after {
   content: "";
   display: block;
   background-color: transparent;
