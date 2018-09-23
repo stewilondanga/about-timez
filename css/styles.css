@@ -1,4 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700");
+body {
+  background-color: #fff;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,15 +31,6 @@
   height: 1.5em;
 }
 
-
-body {
-  background-color: #fff;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Open Sans', sans-serif;
-}
 .wrapper {
   position: relative;
 }
