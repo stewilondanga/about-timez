@@ -926,12 +926,13 @@ i:nth-child(60) {
   filter: brightness(110%);
 }
 
-/*.watch-lace div:nth-child(5) {
+.watch-lace div:nth-child(5) {
   top: 4px;
   -webkit-filter: brightness(110%);
-          filter: brightness(110%);
+  filter: brightness(110%);
 }
-.watch-lace div:nth-child(6) {
+
+/*.watch-lace div:nth-child(6) {
   top: -28px;
   -webkit-transform: rotate(-4deg);
           transform: rotate(-4deg);
