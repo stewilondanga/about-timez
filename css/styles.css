@@ -705,11 +705,12 @@ i:nth-child(60) {
   transform: rotate(50deg) translate(0, -45px);
 }
 
-/*.watch-week div:nth-child(4) {
+.watch-week div:nth-child(4) {
   -webkit-transform: rotate(75deg) translate(0, -45px);
-          transform: rotate(75deg) translate(0, -45px);
+  transform: rotate(75deg) translate(0, -45px);
 }
-.watch-week div:nth-child(5) {
+
+/*.watch-week div:nth-child(5) {
   -webkit-transform: rotate(100deg) translate(0, -45px);
           transform: rotate(100deg) translate(0, -45px);
 }
