@@ -1265,7 +1265,7 @@ i:nth-child(60) {
   }
 }
 
-/*@-webkit-keyframes day-bg {
+@-webkit-keyframes day-bg {
   0% {
     background-color: #2b7edc;
   }
@@ -1279,7 +1279,8 @@ i:nth-child(60) {
     background-color: #2b7edc;
   }
 }
-@keyframes day-bg {
+
+/*@keyframes day-bg {
   0% {
     background-color: #2b7edc;
   }
