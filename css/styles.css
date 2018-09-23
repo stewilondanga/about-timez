@@ -737,7 +737,7 @@ i:nth-child(60) {
   transform: translate(-50%, -50%);
 }
 
-/*.watch-alert {
+.watch-alert {
   position: absolute;
   top: calc(50% + 100px);
   text-transform: uppercase;
@@ -747,9 +747,10 @@ i:nth-child(60) {
   color: #bfbcd8;
   font-weight: 600;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
-.watch-alert strong {
+
+/*.watch-alert strong {
   color: #f00;
   font-weight: 600;
 }
