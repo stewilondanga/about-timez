@@ -867,20 +867,21 @@ i:nth-child(60) {
   position: absolute;
 }
 
-/*.watch-lace:before {
+.watch-lace:before {
   content: "";
   display: block;
   height: 40px;
   width: 4px;
   background-color: #c3c4cb;
-  background-image: linear-gradient(to left, transparent, rgba(0,0,0,0.1));
+  background-image: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.1));
   z-index: 20;
   position: absolute;
   right: -17px;
   border-radius: 4px;
   top: -10px;
 }
-.watch-lace span {
+
+/*.watch-lace span {
   display: block;
   position: absolute;
   background-image: linear-gradient(to left, #eae9e9, transparent);
