@@ -721,11 +721,12 @@ i:nth-child(60) {
   color: #ff5456;
 }
 
-/*.watch-week div:nth-child(7) {
+.watch-week div:nth-child(7) {
   -webkit-transform: rotate(150deg) translate(0, -45px);
-          transform: rotate(150deg) translate(0, -45px);
+  transform: rotate(150deg) translate(0, -45px);
 }
-.watch-date {
+
+/*.watch-date {
   position: absolute;
   top: calc(50% - 100px);
   left: 50%;
