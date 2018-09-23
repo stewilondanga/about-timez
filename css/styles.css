@@ -630,7 +630,7 @@ i:nth-child(60) {
   transform: rotate(115deg) translate(35px, -8px);
 }
 
-/*.watch-week:after {
+.watch-week:after {
   content: "";
   display: block;
   height: 100px;
@@ -638,13 +638,14 @@ i:nth-child(60) {
   border-radius: 50%;
   background-color: transparent;
   -webkit-transform: rotate(-64deg);
-          transform: rotate(-64deg);
+  transform: rotate(-64deg);
   box-shadow: 1px 2px 0 0px #d6d6d3;
   position: absolute;
   left: -2px;
   top: -28px;
 }
-.watch-week .week-arrow {
+
+/*.watch-week .week-arrow {
   position: absolute;
   top: 50%;
   left: 50%;
