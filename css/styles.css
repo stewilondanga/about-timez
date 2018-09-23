@@ -82,7 +82,7 @@ body {
   box-shadow: inset -1px 0 8px 3px #151427, 0 0 2px 1px rgba(255, 255, 255, 0.8);
 }
 
-/*.watch-strap .strap-circle:after {
+.watch-strap .strap-circle:after {
   content: "";
   display: block;
   height: 100%;
@@ -91,7 +91,8 @@ body {
   position: absolute;
   background-color: #fff;
 }
-.watch-strap .strap-circle:before {
+
+/*.watch-strap .strap-circle:before {
   content: "";
   display: block;
   height: 100%;
