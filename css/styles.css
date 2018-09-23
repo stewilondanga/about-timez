@@ -645,18 +645,19 @@ i:nth-child(60) {
   top: -28px;
 }
 
-/*.watch-week .week-arrow {
+.watch-week .week-arrow {
   position: absolute;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(19px, 21px) rotate(22deg);
-          transform: translate(19px, 21px) rotate(22deg);
+  transform: translate(19px, 21px) rotate(22deg);
   width: 45px;
   height: 2px;
   background-color: #0f1743;
   z-index: 5;
 }
-.watch-week .week-arrow:after,
+
+/*.watch-week .week-arrow:after,
 .watch-week .week-arrow:before {
   content: "";
   position: absolute;
