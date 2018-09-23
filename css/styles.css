@@ -958,8 +958,7 @@ i:nth-child(60) {
   transform: rotate(8deg);
 }
 
-/*.watch-lace div:after,
-.watch-lace div:before {
+.watch-lace div:after, .watch-lace div:before {
   content: "";
   position: relative;
   background-color: #b8b8bb;
@@ -970,7 +969,8 @@ i:nth-child(60) {
   left: -3px;
   border-radius: 3px;
 }
-.watch-lace div:before {
+
+/*.watch-lace div:before {
   top: -3px;
 }
 .watch-day {
