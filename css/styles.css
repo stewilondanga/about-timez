@@ -173,7 +173,7 @@ body {
   box-shadow: inset 5px 5px 4px -5px rgba(0, 0, 0, 0.2);
 }
 
-/*.watch-strap-holder:after {
+.watch-strap-holder:after {
   content: "";
   display: block;
   position: absolute;
@@ -183,12 +183,13 @@ body {
   width: 30px;
   border-radius: 12px;
   -webkit-transform: rotate(4deg);
-          transform: rotate(4deg);
+  transform: rotate(4deg);
   top: 10px;
   left: -4px;
   box-shadow: inset -3px 8px 2px 2px #181820;
 }
-.reflection {
+
+/*.reflection {
   content: "";
   display: block;
   height: 16px;
