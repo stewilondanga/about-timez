@@ -251,15 +251,16 @@ body {
   box-shadow: 34px 17px 0 10px #080817, 14px 32px 0 20px #080817;
 }
 
-/*.watch-points {
+.watch-points {
   position: absolute;
   z-index: 5;
   top: calc(50% - 6px);
   left: calc(50% - 1px);
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
-.watch-points:after {
+
+/*.watch-points:after {
   content: "";
   display: block;
   height: 325px;
