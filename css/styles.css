@@ -274,14 +274,15 @@ body {
   border-radius: 50%;
 }
 
-/*.watch-points i {
+.watch-points i {
   display: block;
   height: 12px;
   width: 2px;
   background-image: linear-gradient(to bottom, #c6c6cb, #e0e0e1);
   position: absolute;
 }
-i:nth-child(1) {
+
+/*i:nth-child(1) {
   -webkit-transform: rotate(6deg) translate(0, -172px);
           transform: rotate(6deg) translate(0, -172px);
 }
