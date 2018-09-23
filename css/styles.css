@@ -512,11 +512,12 @@ i:nth-child(46) {
   transform: rotate(276deg) translate(0, -172px);
 }
 
-/*i:nth-child(47) {
+i:nth-child(47) {
   -webkit-transform: rotate(282deg) translate(0, -172px);
-          transform: rotate(282deg) translate(0, -172px);
+  transform: rotate(282deg) translate(0, -172px);
 }
-i:nth-child(48) {
+
+/*i:nth-child(48) {
   -webkit-transform: rotate(288deg) translate(0, -172px);
           transform: rotate(288deg) translate(0, -172px);
 }
