@@ -1280,7 +1280,7 @@ i:nth-child(60) {
   }
 }
 
-/*@keyframes day-bg {
+@keyframes day-bg {
   0% {
     background-color: #2b7edc;
   }
