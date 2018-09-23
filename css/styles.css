@@ -601,11 +601,12 @@ i:nth-child(60) {
   transform: rotate(256deg);
 }
 
-/*.watch-week.days ul {
+.watch-week.days ul {
   -webkit-transform: rotate(169deg) translate(-58px, -17px);
-          transform: rotate(169deg) translate(-58px, -17px);
+  transform: rotate(169deg) translate(-58px, -17px);
 }
-.watch-week.days div {
+
+/*.watch-week.days div {
   color: #1f1f21;
 }
 .watch-week.days div:nth-child(1) {
