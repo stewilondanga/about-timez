@@ -1033,8 +1033,7 @@ i:nth-child(60) {
   animation: 8s sun-arms infinite;
 }
 
-/*.sun div:after,
-.sun div:before {
+.sun div:after, .sun div:before {
   content: "";
   display: block;
   height: 7px;
@@ -1044,9 +1043,10 @@ i:nth-child(60) {
   left: 1px;
   border-radius: 4px;
   -webkit-transform: rotate(-10deg);
-          transform: rotate(-10deg);
+  transform: rotate(-10deg);
 }
-.sun div:before {
+
+/*.sun div:before {
   -webkit-transform: rotate(10deg);
           transform: rotate(10deg);
   left: -1px;
