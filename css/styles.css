@@ -750,11 +750,12 @@ i:nth-child(60) {
   transform: translate(-50%, -50%);
 }
 
-/*.watch-alert strong {
+.watch-alert strong {
   color: #f00;
   font-weight: 600;
 }
-.watch-tips {
+
+/*.watch-tips {
   height: 300px;
   width: 300px;
   position: absolute;
