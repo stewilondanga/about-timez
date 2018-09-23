@@ -912,10 +912,11 @@ i:nth-child(60) {
   top: 7px;
 }
 
-/*.watch-lace div:nth-child(2) {
+.watch-lace div:nth-child(2) {
   top: -4px;
 }
-.watch-lace div:nth-child(3) {
+
+/*.watch-lace div:nth-child(3) {
   top: 6px;
 }
 .watch-lace div:nth-child(4) {
