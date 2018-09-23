@@ -1203,25 +1203,25 @@ i:nth-child(60) {
   }
 }
 
-/*@-webkit-keyframes moon {
+@-webkit-keyframes moon {
   0% {
     -webkit-transform: translate(-14px, 14px);
-            transform: translate(-14px, 14px);
+    transform: translate(-14px, 14px);
     opacity: 0;
   }
   25% {
     -webkit-transform: translate(-14px, 14px);
-            transform: translate(-14px, 14px);
+    transform: translate(-14px, 14px);
     opacity: 1;
   }
   45% {
     -webkit-transform: translate(0px, 0px);
-            transform: translate(0px, 0px);
+    transform: translate(0px, 0px);
     opacity: 1;
   }
   50% {
     -webkit-transform: translate(14px, -14px);
-            transform: translate(14px, -14px);
+    transform: translate(14px, -14px);
     opacity: 0;
   }
   50% {
@@ -1229,11 +1229,12 @@ i:nth-child(60) {
   }
   100% {
     -webkit-transform: translate(0, 0);
-            transform: translate(0, 0);
+    transform: translate(0, 0);
     opacity: 0;
   }
 }
-@keyframes moon {
+
+/*@keyframes moon {
   0% {
     -webkit-transform: translate(-14px, 14px);
             transform: translate(-14px, 14px);
