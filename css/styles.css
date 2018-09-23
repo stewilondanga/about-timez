@@ -1007,7 +1007,7 @@ i:nth-child(60) {
   animation: 8s sun infinite;
 }
 
-/*.sun:after {
+.sun:after {
   content: "";
   display: block;
   position: absolute;
@@ -1018,9 +1018,10 @@ i:nth-child(60) {
   top: calc(50% - 10px);
   left: calc(50% - 10px);
   -webkit-animation: 8s moon infinite;
-          animation: 8s moon infinite;
+  animation: 8s moon infinite;
 }
-.sun div {
+
+/*.sun div {
   position: absolute;
   height: 7px;
   width: 1px;
