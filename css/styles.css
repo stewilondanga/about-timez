@@ -625,11 +625,12 @@ i:nth-child(60) {
   transform: rotate(160deg) translate(0, -37px);
 }
 
-/*.watch-week.days .week-arrow {
+.watch-week.days .week-arrow {
   -webkit-transform: rotate(115deg) translate(35px, -8px);
-          transform: rotate(115deg) translate(35px, -8px);
+  transform: rotate(115deg) translate(35px, -8px);
 }
-.watch-week:after {
+
+/*.watch-week:after {
   content: "";
   display: block;
   height: 100px;
