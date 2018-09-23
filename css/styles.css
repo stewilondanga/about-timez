@@ -610,11 +610,12 @@ i:nth-child(60) {
   color: #1f1f21;
 }
 
-/*.watch-week.days div:nth-child(1) {
+.watch-week.days div:nth-child(1) {
   -webkit-transform: rotate(0) translate(0, -37px) scaleX(-1);
-          transform: rotate(0) translate(0, -37px) scaleX(-1);
+  transform: rotate(0) translate(0, -37px) scaleX(-1);
 }
-.watch-week.days div:nth-child(2) {
+
+/*.watch-week.days div:nth-child(2) {
   -webkit-transform: rotate(80deg) translate(0, -37px) scaleX(-1) scaleY(-1);
           transform: rotate(80deg) translate(0, -37px) scaleX(-1) scaleY(-1);
 }
