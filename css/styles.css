@@ -204,11 +204,12 @@ body {
   transform: rotate(-56deg) skewX(30deg) scale(0.6);
 }
 
-/*.reflection.bottom {
+.reflection.bottom {
   top: 337px;
   left: 312px;
 }
-.reflection.bottom:after {
+
+/*.reflection.bottom:after {
   height: 39px;
   width: 43px;
   left: -60px;
