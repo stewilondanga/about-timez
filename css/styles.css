@@ -901,7 +901,7 @@ i:nth-child(60) {
   opacity: 0.7;
 }
 
-/*.watch-lace div {
+.watch-lace div {
   height: 2px;
   width: 7px;
   background-color: #c4c4c4;
@@ -911,7 +911,8 @@ i:nth-child(60) {
   z-index: 20;
   top: 7px;
 }
-.watch-lace div:nth-child(2) {
+
+/*.watch-lace div:nth-child(2) {
   top: -4px;
 }
 .watch-lace div:nth-child(3) {
