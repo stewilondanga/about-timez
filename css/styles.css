@@ -932,14 +932,15 @@ i:nth-child(60) {
   filter: brightness(110%);
 }
 
-/*.watch-lace div:nth-child(6) {
+.watch-lace div:nth-child(6) {
   top: -28px;
   -webkit-transform: rotate(-4deg);
-          transform: rotate(-4deg);
+  transform: rotate(-4deg);
   -webkit-filter: brightness(115%);
-          filter: brightness(115%);
+  filter: brightness(115%);
 }
-.watch-lace div:nth-child(6):before {
+
+/*.watch-lace div:nth-child(6):before {
   -webkit-transform: rotate(-8deg);
           transform: rotate(-8deg);
 }
