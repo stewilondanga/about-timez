@@ -1057,11 +1057,12 @@ i:nth-child(60) {
   transform: rotate(0) translate(0, -9px);
 }
 
-/*.sun div:nth-child(2) {
+.sun div:nth-child(2) {
   -webkit-transform: rotate(45deg) translate(0, -9px);
-          transform: rotate(45deg) translate(0, -9px);
+  transform: rotate(45deg) translate(0, -9px);
 }
-.sun div:nth-child(3) {
+
+/*.sun div:nth-child(3) {
   -webkit-transform: rotate(90deg) translate(0, -9px);
           transform: rotate(90deg) translate(0, -9px);
 }
