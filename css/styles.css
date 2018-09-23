@@ -42,7 +42,7 @@ body {
   box-shadow: 0 0 1px 2px rgba(180, 177, 193, 0.7);
 }
 
-/*.watch-center {
+.watch-center {
   background-image: radial-gradient(#fff, #eeeeef);
   height: 380px;
   width: 380px;
@@ -52,10 +52,11 @@ body {
   left: 50%;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  box-shadow: -1px -1px 1px 0 #fdfdfd, 0 0 0 2px #b8b7c3, inset 0 0 0 2px #d1d1d6, inset 0 0 0 4px rgba(255,255,255,0.7), inset 0 0 8px 8px rgba(0,0,0,0.1), inset 0 0 50px 50px rgba(0,0,0,0.05);
+  transform: translate(-50%, -50%);
+  box-shadow: -1px -1px 1px 0 #fdfdfd, 0 0 0 2px #b8b7c3, inset 0 0 0 2px #d1d1d6, inset 0 0 0 4px rgba(255, 255, 255, 0.7), inset 0 0 8px 8px rgba(0, 0, 0, 0.1), inset 0 0 50px 50px rgba(0, 0, 0, 0.05);
 }
-.watch-strap {
+
+/*.watch-strap {
   position: absolute;
   top: 50%;
   left: 50%;
