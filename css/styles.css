@@ -679,7 +679,7 @@ i:nth-child(60) {
   z-index: -1;
 }
 
-/*.watch-week div {
+.watch-week div {
   font-weight: bold;
   font-size: 11px;
   position: absolute;
@@ -689,7 +689,8 @@ i:nth-child(60) {
   display: block;
   color: #d6d6d3;
 }
-.watch-week div:nth-child(1) {
+
+/*.watch-week div:nth-child(1) {
   -webkit-transform: rotate(0) translate(0, -45px);
           transform: rotate(0) translate(0, -45px);
 }
