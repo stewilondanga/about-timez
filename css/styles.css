@@ -893,14 +893,15 @@ i:nth-child(60) {
   transform: rotate(-45deg);
 }
 
-/*.watch-lace span.bottom {
+.watch-lace span.bottom {
   top: 18px;
   -webkit-transform: rotate(45deg);
-          transform: rotate(45deg);
+  transform: rotate(45deg);
   background-image: linear-gradient(to left, #eae9e9, transparent);
   opacity: 0.7;
 }
-.watch-lace div {
+
+/*.watch-lace div {
   height: 2px;
   width: 7px;
   background-color: #c4c4c4;
