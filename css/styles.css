@@ -840,7 +840,7 @@ i:nth-child(60) {
   z-index: 11;
 }
 
-/*.watch-lace {
+.watch-lace {
   width: 0;
   height: 20px;
   border-bottom: 10px solid transparent;
@@ -852,9 +852,10 @@ i:nth-child(60) {
   border-radius: 6px;
   z-index: 30;
   -webkit-transform: scaleX(0.9) scaleY(1.1);
-          transform: scaleX(0.9) scaleY(1.1);
+  transform: scaleX(0.9) scaleY(1.1);
 }
-.watch-lace:after {
+
+/*.watch-lace:after {
   content: "";
   display: block;
   height: 40px;
