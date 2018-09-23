@@ -726,7 +726,7 @@ i:nth-child(60) {
   transform: rotate(150deg) translate(0, -45px);
 }
 
-/*.watch-date {
+.watch-date {
   position: absolute;
   top: calc(50% - 100px);
   left: 50%;
@@ -734,9 +734,10 @@ i:nth-child(60) {
   font-weight: 600;
   letter-spacing: 1px;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
-.watch-alert {
+
+/*.watch-alert {
   position: absolute;
   top: calc(50% + 100px);
   text-transform: uppercase;
