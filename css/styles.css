@@ -219,7 +219,7 @@ body {
   box-shadow: 34px 17px 0 8px #080817;
 }
 
-/*.reflection:after {
+.reflection:after {
   content: "";
   display: block;
   background-color: transparent;
@@ -231,10 +231,11 @@ body {
   left: -48px;
   top: -11px;
   -webkit-transform: rotate(-69deg);
-          transform: rotate(-69deg);
+  transform: rotate(-69deg);
   box-shadow: 34px 17px 0 20px #080817;
 }
-.reflection:before {
+
+/*.reflection:before {
   content: "";
   display: block;
   background-color: transparent;
