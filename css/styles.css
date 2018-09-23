@@ -755,17 +755,18 @@ i:nth-child(60) {
   font-weight: 600;
 }
 
-/*.watch-tips {
+.watch-tips {
   height: 300px;
   width: 300px;
   position: absolute;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%) rotate(-90deg);
-          transform: translate(-50%, -50%) rotate(-90deg);
+  transform: translate(-50%, -50%) rotate(-90deg);
   z-index: 11;
 }
-.hours {
+
+/*.hours {
   width: 190px;
   height: 6px;
   position: absolute;
