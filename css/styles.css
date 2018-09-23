@@ -189,7 +189,7 @@ body {
   box-shadow: inset -3px 8px 2px 2px #181820;
 }
 
-/*.reflection {
+.reflection {
   content: "";
   display: block;
   height: 16px;
@@ -199,11 +199,12 @@ body {
   left: 50px;
   background-color: #080817;
   -webkit-filter: blur(1px);
-          filter: blur(1px);
+  filter: blur(1px);
   -webkit-transform: rotate(-56deg) skewX(30deg) scale(0.6);
-          transform: rotate(-56deg) skewX(30deg) scale(0.6);
+  transform: rotate(-56deg) skewX(30deg) scale(0.6);
 }
-.reflection.bottom {
+
+/*.reflection.bottom {
   top: 337px;
   left: 312px;
 }
