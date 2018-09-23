@@ -782,7 +782,7 @@ i:nth-child(60) {
   z-index: 12;
 }
 
-/*.hours:after {
+.hours:after {
   content: "";
   display: block;
   position: absolute;
@@ -793,7 +793,8 @@ i:nth-child(60) {
   background-color: #fff;
   border-radius: 50%;
 }
-.seconds {
+
+/*.seconds {
   width: 197px;
   height: 2px;
   position: absolute;
