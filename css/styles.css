@@ -56,19 +56,20 @@ body {
   box-shadow: -1px -1px 1px 0 #fdfdfd, 0 0 0 2px #b8b7c3, inset 0 0 0 2px #d1d1d6, inset 0 0 0 4px rgba(255, 255, 255, 0.7), inset 0 0 8px 8px rgba(0, 0, 0, 0.1), inset 0 0 50px 50px rgba(0, 0, 0, 0.05);
 }
 
-/*.watch-strap {
+.watch-strap {
   position: absolute;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   height: 480px;
   width: 220px;
   background-color: #101022;
   border-radius: 6px;
   z-index: 2;
 }
-.watch-strap .strap-circle {
+
+/*.watch-strap .strap-circle {
   position: absolute;
   height: 409px;
   width: 409px;
